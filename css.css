@@ -1,0 +1,39 @@
+.principal{
+	font-family: Bahnschrift Light;
+	font-size: 20px;
+}
+
+#titulo{
+	font-size: 60px;
+	font-family: Bungee Inline ;
+	color: #1E90FF;
+}
+
+body{
+	background:#F5FFFA		 ;
+}
+
+.mensagem{
+	font-family: Bahnschrift Light;
+	color: red;
+	font-weight: bold;
+}
+
+.ganhador{
+	font-family: Bahnschrift Light;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.informativo{
+	/*border-radius: 35%;*/
+	font-weight: bold;
+}
+
+.start{
+   
+	font-weight: bold;
+	font-family: Bungee Inline ;
+	color: #1E90FF;
+	font-size: 18px;
+}
